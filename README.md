@@ -27,30 +27,5 @@
 
 ---
 
-## 📁 Directory Structure
 
-```bash
-doctor-patient-portal/
-├── header/              
-├── slider/              
-├── 1.png                
-├── allappointments.php  
-├── appointment.php      
-├── approved_data.php    
-├── cancel_data.php      
-├── config.php           
-├── dashboard.php        
-├── doc.jpg              
-├── doc2.png             
-├── handle_action.php    
-├── headerall.php        
-├── homepage.php         
-├── newappointment.php   
-├── README.md            
-├── sidebarandnav.php    
-├── signup.php           
-├── signup1.php          
-├── style.css            
-└── We_Learn_for_the_future.pdf.pdf
-```
 📄 [Click here to view the presentation](https://github.com/inahsia/Hospital-Appointment-Management-System/blob/2e1199f343f9a4ae460f1b72d4cd7125b801ed50/We%20Learn%20for%20the%20future.pdf.pdf)
